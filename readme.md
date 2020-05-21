@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 desc
-=======
-desc
->>>>>>> master
