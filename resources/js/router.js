@@ -43,6 +43,10 @@ const router = new VueRouter({
             path: '*', 
             redirect: '/404', 
         },
+        { 
+            path: '/', 
+            redirect: 'dashboard', 
+        }
     ],
 });
 
