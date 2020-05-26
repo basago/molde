@@ -1930,6 +1930,7 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 
 
 
@@ -20601,7 +20602,7 @@ var render = function() {
             _c(
               "div",
               { attrs: { id: "content" } },
-              [_c("Cabecera"), _vm._v(" "), _c("Cuerpo")],
+              [_c("Cabecera"), _vm._v(" "), _c("router-view")],
               1
             ),
             _vm._v(" "),
